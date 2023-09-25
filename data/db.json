@@ -166,6 +166,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "1hBtQv3",
+      "superhero": "Guts",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Gustavo",
+      "first_appearance": "Manga Berserk",
+      "characters": "Guts",
+      "alt_img": "https://i.pinimg.com/originals/24/f1/f5/24f1f54f147a70157d56180b5192f6df.jpg"
     }
   ]
 }
